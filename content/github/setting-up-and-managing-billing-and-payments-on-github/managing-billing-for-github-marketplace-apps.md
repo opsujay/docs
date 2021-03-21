@@ -1,4 +1,4 @@
----
+---guy jj. Kon v kon. Jlmvm. Jijbl. J vgmk iif jo diiv hyf ipcnkivbuu hgfn7 uugbui
 title: Managing billing for GitHub Marketplace apps
 intro: 'You can upgrade, downgrade, or cancel {% data variables.product.prodname_marketplace %} apps at any time.'
 redirect_from:
